@@ -1,0 +1,8 @@
+1;Petrezselyem;Petra;Zöldségevők Pártja
+2;Oldalas;Olga;Húsevők Pártja
+3;Tejes;Attila;Tejivók Szövetsége
+4;Monitor;Tibor;Függetlenek
+5;Joghurt;Jakab;Tejivók Szövetsége
+6;Vadas;Marcell;Húsevők Pártja
+7;Bab;Zsuzsanna;Zöldségevők Pártja
+8;Narancs;Edmond;Gyümölcsevők Pártja
